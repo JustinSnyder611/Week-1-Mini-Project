@@ -1,0 +1,15 @@
+* {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: lightblue;
+}
+
+.header {
+    background-color: lightgoldenrodyellow;
+    position: fixed;
+    display:inline;
+}
+
+
+h1 {
+    background-color: lightgreen;
+}
